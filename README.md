@@ -1,4 +1,4 @@
 # cd_intro_202612021
 Repositorio de la clase introducción a la ciencia de datos. 202612021
 
-![Texto alternativo](porsche.jpg)
+![Texto alternativo](porsche.avif)
